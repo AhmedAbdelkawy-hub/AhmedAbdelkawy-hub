@@ -5,7 +5,7 @@
          and eventually, help myself to be at my best.
          
 - 👀 I’m interested in Test Automation and API RestAssured, Performance ,Mobile and Web App
-- 🌱 I’m currently learning .Test Automation and API RestAssured.
+- 🌱 I’m currently learning .Test Automation (Selenium & Appium) and API RestAssured.
 - 💞️ I’m looking to collaborate on Any types of helping employes 
 - 📫 How to reach me :
     E-Mail: elkawy2@gmail.com
